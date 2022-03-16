@@ -3,6 +3,7 @@
 3. Short Writeup 
 
 3.1 Estimate of two coins are: - ThetaA = 0.568 and ThetaB = 0.494
+
 3.2 There were 4 ways to make multiple API calls to the given URL. 1- Use requests.get (URL) in a for 
 loop, 2- Use asyncio to make asynchronous call to the given URL, 3- Use threads, 4- Use 
 multiprocessing. 
